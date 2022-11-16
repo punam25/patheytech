@@ -16,5 +16,16 @@ function getValueLoginForm(){
 
     var active=document.getElementById("active").value;
     console.log(active);   
+     
+    const company={
+        
+            name: firstname,
+            lastname:lastname,
+            address: address,
+            state: state,
+            pincode: pincode,
+            active: true
+         };
+         console.log("company",company);
+    }
 
-}
