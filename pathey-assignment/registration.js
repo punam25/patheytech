@@ -1,6 +1,7 @@
 function getValueLoginForm(){
+    
     var firstname=document.getElementById("txtfirst").value;
-    console.log("firstname",firstname);
+     console.log("firstname",firstname);
     
     var lastname=document.getElementById("txtsecond").value;
     console.log(lastname);

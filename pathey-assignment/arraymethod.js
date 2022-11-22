@@ -68,3 +68,10 @@ var fruits1 = ["banana","litchi","orange" ,"apple"];
 var fruits2=fruits1.sort();
 console.log("fruits",fruits2);
 
+// array filter method
+
+const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
+
+const result5 = words.filter(word => word.length > 6);
+
+console.log("filter method=>",result5);

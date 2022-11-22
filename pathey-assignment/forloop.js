@@ -16,6 +16,6 @@ while(whilecheck<10){
 //for-in-loop
 var forinloop=['punam','aundh','nashik','delhi'];
 for(var i in forinloop){
-console.log("value in loop",forinloop[i]);
+console.log("value in loop",forinloop[2]);
 }
 
