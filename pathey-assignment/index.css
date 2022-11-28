@@ -34,3 +34,34 @@ h5{
     width:100%;
 
 }
+#color{
+    font-size:20px;
+    color:red;
+    text-align:justify;
+    text-decoration:underline;
+    text-transform: capitalize;
+    text-indent: 40px;
+    letter-spacing: 1px;
+    word-spacing:2px;
+}
+a{
+    color:hotpink;
+}
+a:hover{
+    color:brown;
+}
+a:visited{
+    color:green;
+}
+#abc{
+    list-style: circle;
+}
+#xyz{
+    list-style: upper-alpha;
+}
+table th,td{
+    border:1px solid;
+}
+td{
+    text-align: center;
+}
